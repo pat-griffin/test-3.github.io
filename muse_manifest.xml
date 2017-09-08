@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pat-griffin.github.io" resolutions="1x" timestamp="1504881012086">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pat-griffin.github.io" resolutions="1x" timestamp="1504881372172">
   <folder name="css">
     <file name="site_global.css" crc="6598928"/>
     <file name="master_main-master.css" crc="3771131965" ref="xx_about:01_chicago:03_denver:04_kansas-city:contribute:index:02_los-angeles"/>
@@ -13,8 +13,8 @@
     <file name="nomq_04_kansas-city.css" crc="240240318" ref="04_kansas-city"/>
     <file name="contribute.css" crc="99320731" ref="contribute"/>
     <file name="nomq_contribute.css" crc="3802915448" ref="contribute"/>
-    <file name="index.css" crc="3829147800" ref="index"/>
-    <file name="nomq_index.css" crc="99779457" ref="index"/>
+    <file name="index.css" crc="380272291" ref="index"/>
+    <file name="nomq_index.css" crc="422062828" ref="index"/>
     <file name="02_los-angeles.css" crc="437973684" ref="02_los-angeles"/>
     <file name="nomq_02_los-angeles.css" crc="3817972962" ref="02_los-angeles"/>
   </folder>
@@ -43,17 +43,17 @@
       <caption webpage="03_denver" alt=""/>
       <caption webpage="03_denver" alt=""/>
       <caption webpage="03_denver" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="contribute" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
       <caption webpage="04_kansas-city" alt=""/>
       <caption webpage="04_kansas-city" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
       <caption webpage="02_los-angeles" alt=""/>
       <caption webpage="02_los-angeles" alt=""/>
       <caption webpage="02_los-angeles" alt=""/>
@@ -67,17 +67,17 @@
       <caption webpage="03_denver" alt=""/>
       <caption webpage="03_denver" alt=""/>
       <caption webpage="03_denver" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="contribute" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
       <caption webpage="04_kansas-city" alt=""/>
       <caption webpage="04_kansas-city" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
       <caption webpage="02_los-angeles" alt=""/>
       <caption webpage="02_los-angeles" alt=""/>
       <caption webpage="02_los-angeles" alt=""/>
@@ -91,17 +91,17 @@
       <caption webpage="03_denver" alt=""/>
       <caption webpage="03_denver" alt=""/>
       <caption webpage="03_denver" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="contribute" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
       <caption webpage="04_kansas-city" alt=""/>
       <caption webpage="04_kansas-city" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
       <caption webpage="02_los-angeles" alt=""/>
       <caption webpage="02_los-angeles" alt=""/>
       <caption webpage="02_los-angeles" alt=""/>
@@ -181,7 +181,6 @@
     </file>
     <file name="2014-11-20_utile-city-01-2.png" crc="4141877157" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="noun_479787_cc-crop-u230040.png" crc="14014821" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -255,7 +254,7 @@
     <file name="noun_484028_cc-crop-u2300322.png" crc="3784294514" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2014-11-20_utile-city-01-2-crop-u230018.png" crc="4214003831" seo="true" ref="index">
+    <file name="2014-11-20_utile-city-01-2-crop-u230018.png" crc="62749960" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="chicago-river-illinois-buttonu230009-r-fr2.jpg" crc="3775483188" ref="index"/>
@@ -341,12 +340,15 @@
     <file name="emma portrait-crop-u2366863.png" crc="3954149039" seo="true" ref="xx_about">
       <caption webpage="xx_about" alt=""/>
     </file>
+    <file name="2014-11-20_utile-city-01-2-crop-u2300182.png" crc="4214003831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <file name="03_denver.html" crc="500503188" seo="true" mt="1504880133427" redirect="true"/>
   <file name="contribute.html" crc="391197800" seo="true" mt="1504880133427" redirect="true"/>
   <file name="02_los-angeles.html" crc="157823350" seo="true" mt="1504880133427" redirect="true"/>
   <file name="01_chicago.html" crc="4234642226" seo="true" mt="1504880133427" redirect="true"/>
   <file name="04_kansas-city.html" crc="4185142644" seo="true" mt="1504880133427" redirect="true"/>
-  <file name="index.html" crc="3919974295" seo="true" mt="1504880964579" redirect="true"/>
+  <file name="index.html" crc="4103361228" seo="true" mt="1504881325015" redirect="true"/>
   <file name="xx_about.html" crc="203276374" seo="true" mt="1504880133427" redirect="true"/>
 </manifest>
