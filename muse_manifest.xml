@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pat-griffin.github.io" resolutions="1x" timestamp="1504882952674">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pat-griffin.github.io" resolutions="1x" timestamp="1504883130579">
   <folder name="css">
     <file name="site_global.css" crc="6598928"/>
     <file name="master_main-master.css" crc="483233914" ref="xx_about:01_chicago:03_denver:04_kansas-city:contribute:index:02_los-angeles"/>
@@ -13,8 +13,8 @@
     <file name="nomq_04_kansas-city.css" crc="240240318" ref="04_kansas-city"/>
     <file name="contribute.css" crc="3850856616" ref="contribute"/>
     <file name="nomq_contribute.css" crc="3802915448" ref="contribute"/>
-    <file name="index.css" crc="189663755" ref="index"/>
-    <file name="nomq_index.css" crc="294221669" ref="index"/>
+    <file name="index.css" crc="4178401253" ref="index"/>
+    <file name="nomq_index.css" crc="404900511" ref="index"/>
     <file name="02_los-angeles.css" crc="3997420344" ref="02_los-angeles"/>
     <file name="nomq_02_los-angeles.css" crc="3817972962" ref="02_los-angeles"/>
   </folder>
@@ -350,7 +350,7 @@
     <file name="2014-11-20_utile-city-01-2-crop-u2300182.png" crc="4214003831" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2014-11-20_utile-city-01-2-crop-u2300183.png" crc="4246325606" seo="true" ref="index">
+    <file name="2014-11-20_utile-city-01-2-crop-u2300183.png" crc="3830979634" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="chicago-river-illinois-buttonu230009-r-fr3.jpg" crc="520277732" ref="index"/>
@@ -379,6 +379,6 @@
   <file name="02_los-angeles.html" crc="3943556892" seo="true" mt="1504882449624" redirect="true"/>
   <file name="01_chicago.html" crc="478901135" seo="true" mt="1504882449624" redirect="true"/>
   <file name="04_kansas-city.html" crc="425516473" seo="true" mt="1504882449624" redirect="true"/>
-  <file name="index.html" crc="3914922665" seo="true" mt="1504882916477" redirect="true"/>
+  <file name="index.html" crc="4204210968" seo="true" mt="1504883094921" redirect="true"/>
   <file name="xx_about.html" crc="4041526969" seo="true" mt="1504882524836" redirect="true"/>
 </manifest>
